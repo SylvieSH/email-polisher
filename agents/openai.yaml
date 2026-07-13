@@ -1,0 +1,4 @@
+interface:
+  display_name: "Email Polisher"
+  short_description: "Polish or draft emails by tone"
+  default_prompt: "Use $email-polisher to polish this email in a respectful tone."
